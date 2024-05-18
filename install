@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+export sample="$HOME/bash_scripts"
+mkdir $sample/hello
